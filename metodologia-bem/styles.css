@@ -1,0 +1,16 @@
+@import url(shoes.css);
+@import url(shirts.css);
+@import url(books.css);
+
+.body{
+    font-family: cursive;
+}
+
+.closet{
+    border: 5px solid black;
+    padding: 15px;
+    background-color: hsl(165, 21%, 60%);
+   margin: 10px; 
+}
+
+

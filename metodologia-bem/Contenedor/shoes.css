@@ -1,0 +1,9 @@
+.closet__shoes{
+    margin-top: 10px;
+    background-color: rgb(63, 97, 148);
+}
+
+.closet__shoes--item{
+    font-weight: bold;
+    color: rgb(223, 149, 12);
+}

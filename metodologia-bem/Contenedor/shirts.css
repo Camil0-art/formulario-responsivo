@@ -1,0 +1,10 @@
+.closet__shirts{
+    margin-top: 10px;
+    background-color: rgb(120, 23, 230);
+    border-radius: 10px;
+}
+
+.closet__shirts--item{
+    font-weight: bold;
+    color: rgb(36, 221, 30);
+}

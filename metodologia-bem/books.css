@@ -1,0 +1,9 @@
+.closet__books{
+    margin-top: 10px;
+    background-color: rgb(74, 230, 100);
+}
+
+.closet__books--item{
+    font-weight: bold;
+    color: rgb(196, 240, 2);
+}
